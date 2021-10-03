@@ -1,0 +1,14 @@
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.exe
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.deps.json
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.runtimeconfig.json
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.runtimeconfig.dev.json
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.dll
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.pdb
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.csproj.AssemblyReference.cache
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.AssemblyInfoInputs.cache
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.AssemblyInfo.cs
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.csproj.CoreCompileInputs.cache
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.dll
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.pdb
+C:\Users\cpaul\source\repos\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.genruntimeconfig.cache
